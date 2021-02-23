@@ -2,4 +2,4 @@
 
 
 <h1 align='center'> Hi, I'm Subhajit Sahana! :wave: </h1>
-<p align='center'>Security Enthusaist and Bugbounty Hunter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+<p align='center'><em>Security Enthusiast and Bug Bounty Hunter</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
